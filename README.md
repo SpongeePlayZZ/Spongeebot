@@ -27,6 +27,8 @@ minecraft (sends a post from r/minecraft)
 
 .pcmasterrace (sends a post from r/pcmasterrace)
 
+.froggles (sends a post from r/APacketOfFroggles)
+
 Added music commands
 
 .play (plays the video (video has to be the url. (example. it cant be .play dancey boi 10 hours but instead it would have to be the url https://youtu.be/s65IoT8uBlg 
