@@ -32,6 +32,7 @@ minecraft (sends a post from r/minecraft)
 Added music commands
 
 .play (plays the video (video has to be the url. (example. it cant be .play dancey boi 10 hours but instead it would have to be the url https://youtu.be/s65IoT8uBlg 
+CURRENTLY WITH MUSIC COMMAND IT MIGHT DO A MINI SPAM DUE TO A SMALL UNFIXABLE ERROR.
 
 .skip (skips the song playing)
 
