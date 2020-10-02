@@ -5,7 +5,9 @@ my discord bot
 
 The commands in the bot as of now are
 
-.help
+.help (list of commands)
+
+.invite (gives an invite link for the bot)
 
 .ping (it will send pong)
 
