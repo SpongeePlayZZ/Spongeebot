@@ -1,7 +1,7 @@
 # Spongeebot
 my discord bot
 
-Invite link here: https://discord.com/oauth2/authorize?client_id=761267946152263690&scope=bot&permissions=53480456
+Invite link here: https://discord.com/oauth2/authorize?client_id=761267946152263690&scope=bot&permissions=238284174
 
 
 
