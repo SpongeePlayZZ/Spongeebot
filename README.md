@@ -5,6 +5,8 @@ my discord bot
 
 The commands in the bot as of now are
 
+.help
+
 .ping (it will send pong)
 
 .repeat (it will repeat whatever you write)
