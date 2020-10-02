@@ -1,6 +1,8 @@
 # Spongeebot
 my discord bot
 
+Invite link here: https://discord.com/oauth2/authorize?client_id=761267946152263690&scope=bot&permissions=53480456
+
 
 
 The commands in the bot as of now are
