@@ -43,3 +43,5 @@ Moderation commands
 .kick (it will kick the member. (example. .kick @Spongee#1337)
 
 .ban (it will ban the member. (example. .ban @Spongee#1337)
+
+.poll (starts a poll. (example. .poll #(channelname) do you like red or blue?)
